@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65e6c77d-c243-4b0f-90b7-c499cc69cc49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteShortIntLong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,14 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ByteShortIntLong">
+    <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteShortIntLong" />
+      <module name="Java-work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Java-work" />
@@ -54,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ByteShortIntLong" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -68,7 +76,7 @@
       <updated>1654274923184</updated>
       <workItem from="1654274926993" duration="1313000" />
       <workItem from="1654287931306" duration="197000" />
-      <workItem from="1654902013760" duration="653000" />
+      <workItem from="1654902013760" duration="2578000" />
     </task>
     <servers />
   </component>
