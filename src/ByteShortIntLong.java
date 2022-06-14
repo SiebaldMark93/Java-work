@@ -49,6 +49,15 @@ public class ByteShortIntLong {
         System.out.println(bigLongLiteralValue);
 
         short bigShortLiteralValue = 32767;
+
+        int myTotal = (myMinIntValue / 2);
+
+        //Casting means to treat or convert a number from one type to another.  We put the type we want to number to be parenthesis like this: (byte) (myMinByteValue/2);
+
+        byte myNewByteValue = (byte) (myMinByteValue /2 );
+
+        short myNewShortValue = (short) (myMinShortValue / 2);
+
         
         
         
