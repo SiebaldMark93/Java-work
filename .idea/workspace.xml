@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65e6c77d-c243-4b0f-90b7-c499cc69cc49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +84,8 @@
       <workItem from="1654274926993" duration="1313000" />
       <workItem from="1654287931306" duration="197000" />
       <workItem from="1654902013760" duration="10419000" />
+      <workItem from="1655321553957" duration="1991000" />
+      <workItem from="1655766815354" duration="63000" />
     </task>
     <servers />
   </component>

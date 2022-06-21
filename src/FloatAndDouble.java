@@ -26,5 +26,16 @@ public class FloatAndDouble {
         double convertedKilograms = numberOfPounds * 0.45359237d;
         System.out.println("Converted kilograms = " + convertedKilograms);
 
+        double pi = 3.1415927d;
+        double anotherNumber = 3_000_000.4_567_890d;
+        System.out.println(pi);
+        System.out.println(anotherNumber);
+
+        //In general float and double are great for general floating point operations.  But both are not great to use where precise calculations are required - this is due to limitations with how floating point numbers are stored, and not a Java problem as such.
+
+        //Java has a class called BigDecimal tht overcomes this.  We will take more about that later in the course.  For now just keep in the back of your mind that when precise calculations are necessary, such as when performing currency calculations, floating-point types should not be used.
+
+        //But for genera calculations float and double are fine.
+
     }
 }
