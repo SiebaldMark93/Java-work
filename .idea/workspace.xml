@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65e6c77d-c243-4b0f-90b7-c499cc69cc49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CharBoolean/Char.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +44,23 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FloatAndDouble">
+  <component name="RunManager" selected="Application.Char">
     <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ByteShortIntLong" />
       <module name="Java-work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharBoolean.Char" />
+      <module name="Java-work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CharBoolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Char" />
         <item itemvalue="Application.FloatAndDouble" />
         <item itemvalue="Application.ByteShortIntLong" />
         <item itemvalue="Application.HelloWorld" />
@@ -86,6 +101,9 @@
       <workItem from="1654902013760" duration="10419000" />
       <workItem from="1655321553957" duration="1991000" />
       <workItem from="1655766815354" duration="63000" />
+      <workItem from="1655843263015" duration="3264000" />
+      <workItem from="1655906985579" duration="600000" />
+      <workItem from="1655948264335" duration="2221000" />
     </task>
     <servers />
   </component>
